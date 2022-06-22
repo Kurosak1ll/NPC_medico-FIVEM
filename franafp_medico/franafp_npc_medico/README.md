@@ -3,7 +3,8 @@
 # TRADUCCION
 -- Traducido al Español
 # DISCORD
--- Mi discord por si necesitais algo @fran_afp_#2127
+-- Mi discord por si necesitais algo @fran_afp_#0001
+-- FutureSHOP: https://discord.gg/kU9j4aVt5d
 # GITHUB
 -- Este es mi GitHub donde podeis encontrar cosas como estas: https://github.com/franafp
 # CONFIG
